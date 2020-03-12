@@ -81,6 +81,10 @@ All families should isolate their elderly as much as possible limiting physical 
 
 They should also fallow reasonable sanitary cautions like sanitizing the items and food handed over to elderly, sanitizing sanitary areas that are shared and so on (I believe what ever one could do to limit the possible exposure the better). 
 
+### Why should you believe this or follow these suggestions?
+
+You do not. I am not a domain expert in any of this matter. But I have not seen any better theory that is plausible. There is not much time left to do any deep research and try many other less severe options. Time is running out quickly and there is possibility to avoid huge carnage.
+
 ### How can you help?
 
 Every kind of help is needed!
