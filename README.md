@@ -50,6 +50,10 @@ Here is demographic breakdown of confirmed infections in Germany and Italy.
 
 As you can see, there is huge structural demographic difference between infected people in Italy and in Germany.
 
+In Italy 57.5% infected people are 60 year old or older. 18.3% of people are 80 year old or older. 
+
+In Germany only 14% men in the age group 60-79 and only 10% of women in the same age group. There is very small amount of people (difficult to measure from the graph) that are 80 year old or older. 
+
 ### Who else is in risk? Spain!
 
 This got me thinking. Where else is the situation similar to Italy?
