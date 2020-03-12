@@ -16,7 +16,7 @@ Italy has over twice less critical care beds (ICU) than in Germany.
 
 ![EU UK critical care beds](graphs/EU_UK_critical_care_beds.webp)
 
-https://link.springer.com/article/10.1007/s00134-012-2627-8#Tab2
+[Source](https://link.springer.com/article/10.1007/s00134-012-2627-8#Tab2)
 
 But I do not believe this can explain an order of magnitude difference. 
 
@@ -25,12 +25,11 @@ But I do not believe this can explain an order of magnitude difference.
 Italy has blaming its demographic but there is not much difference between Italy and Germany (especially when we compare to India for example).
 
 ![Germany population](graphs/Germany Population.png)
+[Source](https://en.wikipedia.org/wiki/Demographics_of_Germany)
 ![Italy population](graphs/Italy Population.png)
+[Source](https://en.wikipedia.org/wiki/Demographics_of_Italy)
 ![India population](graphs/India Population.jpg)
-
-https://en.wikipedia.org/wiki/Demographics_of_Germany
-https://en.wikipedia.org/wiki/Demographics_of_Italy
-https://www.indexmundi.com/india/age_structure.html
+[Source](https://www.indexmundi.com/india/age_structure.html)
 
 I do not believe that difference in demographics can explain order of magnitude difference in mortality either. It does not feel likely that cosmetic differences in demographic are amplified into this huge difference in mortality. There should be something else.
 
@@ -47,9 +46,9 @@ There should at least visible difference between age groups getting infected in 
 Here is demographic breakdown of confirmed infections in Germany and Italy.
 
 ![COVID-19 Italy demographic breakdown](graphs/COVID-19 Italy demographic breakdown.jfif)
+[Source](https://twitter.com/GlennLuk/status/1237904780577722369) (I could not quickly find more official source)
 ![COVID-19 Germany demographic breakdown](graphs/COVID-19 Germany demographic breakdown.png)
-https://twitter.com/GlennLuk/status/1237904780577722369 (I could not quickly find more official source)
-https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-03-08-en.pdf?__blob=publicationFile
+[Source](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-03-08-en.pdf?__blob=publicationFile)
 
 As you can see, there is huge structural demographic difference between infected people in Italy and in Germany.
 
