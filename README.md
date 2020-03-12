@@ -1,4 +1,4 @@
-## Will next humanitarian disaster happen in Spain?
+## Will next COVID-19 humanitarian disaster happen in Spain?
 
 I am strongly convinced that next COVID-19 humanitarian disaster will happen in Spain. There is not much time left to act. Based on the current projections it will happen around Wednesday on 18th March 2020.
 
