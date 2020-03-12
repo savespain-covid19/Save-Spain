@@ -69,9 +69,9 @@ This means that Spanish elderly are possibly as much as exposed as the elderly i
 
 Spain has currently 2277 confirmed cases and 54 deaths (CFR 2.4%). It is comparable to the situation in Italy on 2nd March - 2036 confirmed cases and 52 deaths (CFR 2.6%).
 
-This gives about 7 days until Spain will reach the situation similar to Italy.
+This leaves about 7 days before a similar level will be reached in Spain.
 
-When the health care system exceeds its capacity then they could not handle critical cases any more and people start to die in large numbers as we have learned from Italy. Therefore it has utmost importance to try to limit the number of infected people as much as possible.
+When the health care system exceeds its capacity, it will not be able to handle all critical cases anymore. This is when people will start to die in large numbers as we have learned from Italy. There it is crucial to try to limit the number of infected people as soon as possible.
 
 Please review Julie McMurry, MPH website [https://www.flattenthecurve.com/](https://www.flattenthecurve.com/) to learn more about this problem.
 
@@ -81,7 +81,7 @@ In the best case scenario, immediate total lock down but not only that.
 
 All families should isolate their elderly as much as possible limiting physical (but not emotional, because I know social interaction is very important for the Spanish people) contact with their elderly family members to minimum. 
 
-They should also fallow reasonable sanitary cautions like sanitizing the items and food handed over to elderly, sanitizing sanitary areas that are shared and so on (I believe what ever one could do to limit the possible exposure the better). 
+Reasonable sanitary cautions should also be followed; regular hand washing, disinfecting items and food handed over to eldery, etc..
 
 ### Why should you believe this or follow these suggestions?
 
