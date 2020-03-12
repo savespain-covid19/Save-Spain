@@ -8,11 +8,11 @@ Please read why I believe this to be true and what immediate actions can be poss
 
 I have been thinking a lot about the difference between the COVID-19 related mortality in Italy and Germany (during comparable periods 2.5% (now 6%) and 0.2%).
 
-How is there so huge difference? 
+Why is there such a big difference?
 
-### Critical care beds (ICU)
+### Intensive  care beds (ICU)
 
-Italy has over twice less critical care beds (ICU) than in Germany.
+Italy only has half the number of intensive care beds (ICU) than Germany.
 
 ![EU UK critical care beds](graphs/EU_UK_critical_care_beds.webp)
 
@@ -22,20 +22,18 @@ But I do not believe this can explain an order of magnitude difference.
 
 ### Demographic differences
 
-Italy has blaming its demographic but there is not much difference between Italy and Germany (especially when we compare to India for example).
+Itally has been blaming its demographic, but in a country with fewer cases, like Germany, the demographic is almost the same.
 
 ![Germany population](graphs/Germany Population.png)
 [Source](https://en.wikipedia.org/wiki/Demographics_of_Germany)
 ![Italy population](graphs/Italy Population.png)
 [Source](https://en.wikipedia.org/wiki/Demographics_of_Italy)
-![India population](graphs/India Population.jpg)
-[Source](https://www.indexmundi.com/india/age_structure.html)
 
-I do not believe that difference in demographics can explain order of magnitude difference in mortality either. It does not feel likely that cosmetic differences in demographic are amplified into this huge difference in mortality. There should be something else.
+The difference in demographics can not exaplain a difference in mortality by an order of magnitude. There is likely an other cause for this.
 
 ### Family structure differences
 
-Today it clicked for me. Of course, for many Italian families multiple generations still live together while in Germany most of the families live in separate households. In addition Italians are more social. This combined with younger people having milder symptoms or no symptoms at all (but still being able to infect) has most likely created this explosive situation in Italy. [citations needed]
+Then I realized, there are many Italian families where multiple generations still live together, while in Germany, most families live in separate households. In addition, Italians are more social. This combined with younger people having milder symptoms or no symptoms at all has likely created such a devastating situation in Italy.
 
 Can there be merit in this hypothesis?
 
@@ -61,13 +59,13 @@ Spain maybe? I am not an expert in this of course but quick googling resulted in
 80% of Spanish youngsters are still living with their parents https://english.elpais.com/elpais/2015/12/30/inenglish/1451465661_430238.html
 More and more young Spanish people will be living with their parents until middle age, this is not a phenomenon which will end any time soon    https://spaininsider.blog/2018/08/31/ninis-living-with-their-parents-until-their-40s/
 
-This means that Spanish elderly are possibly as much as exposed as the elderly in Italy (I have not been able to locate demographic breakdown of COVID-19 cases for Spain). This combined with even smaller amount of critical care beds (see the table above) can result in similar catastrophe as we see unrolling in Italy.
+This means that Spanish elderly are possibly as much as exposed as the elderly in Italy (I have not been able to locate demographic breakdown of COVID-19 cases for Spain). This combined with even smaller amount of intensive care beds (see the table above) can result in similar catastrophe as we see unrolling in Italy.
 
 ### Immediate action is needed!
 
 Spain has currently 2277 confirmed cases and 54 deaths (CFR 2.4%). It is comparable to the situation in Italy on 2nd March - 2036 confirmed cases and 52 deaths (CFR 2.6%).
 
-This gives about 7 days until Spain will reach the situation similar to Italy (I will include projections later).
+This gives about 7 days until Spain will reach the situation similar to Italy.
 
 When the health care system exceeds its capacity then they could not handle critical cases any more and people start to die in large numbers as we have learned from Italy. Therefore it has utmost importance to try to limit the number of infected people as much as possible.
 
