@@ -37,7 +37,7 @@ Then I realized, there are many Italian families where multiple generations stil
 
 Can there be merit in this hypothesis?
 
-There should at least visible difference between age groups getting infected in these two countries. Because COVID-19 mortality is order of magnitude higher for older age groups then this can potentially explain the difference.
+There should be at least visible difference between age groups getting infected in these two countries. Because COVID-19 mortality is order of magnitude higher for older age groups then this can potentially explain the difference.
 
 ### Demographic breakdown of confirmed cases
 
@@ -56,8 +56,8 @@ This got me thinking. Where else is the situation similar to Italy?
 
 Spain maybe? I am not an expert in this of course but quick googling resulted in these two data points.
 
-80% of Spanish youngsters are still living with their parents https://english.elpais.com/elpais/2015/12/30/inenglish/1451465661_430238.html
-More and more young Spanish people will be living with their parents until middle age, this is not a phenomenon which will end any time soon    https://spaininsider.blog/2018/08/31/ninis-living-with-their-parents-until-their-40s/
+80% of Spanish youngsters are still living with their parents ([source](https://english.elpais.com/elpais/2015/12/30/inenglish/1451465661_430238.html).
+More and more young Spanish people will be living with their parents until middle age, this is not a phenomenon which will end any time soon ([source](https://spaininsider.blog/2018/08/31/ninis-living-with-their-parents-until-their-40s/)).
 
 This means that Spanish elderly are possibly as much as exposed as the elderly in Italy (I have not been able to locate demographic breakdown of COVID-19 cases for Spain). This combined with even smaller amount of intensive care beds (see the table above) can result in similar catastrophe as we see unrolling in Italy.
 
@@ -69,7 +69,7 @@ This gives about 7 days until Spain will reach the situation similar to Italy.
 
 When the health care system exceeds its capacity then they could not handle critical cases any more and people start to die in large numbers as we have learned from Italy. Therefore it has utmost importance to try to limit the number of infected people as much as possible.
 
-https://www.flattenthecurve.com/
+Please review Julie McMurry, MPH website [https://www.flattenthecurve.com/](https://www.flattenthecurve.com/) to learn more about this problem.
 
 ### What can be done?
 
