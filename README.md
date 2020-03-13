@@ -67,33 +67,39 @@ This means that Spanish elderly are possibly as much as exposed as the elderly i
 
 ### Data and predictions
 
-|	Date	|	Italy Confirmed	|	Italy Deaths	|	Italy CFR %	|
-|	----------------	|	--------------------	|	----------------	|	---------------	|
-|	20/02/20	|	3	|		|		|
-|	21/02/20	|	20	|	1	|	5	|
-|	22/02/20	|	62	|	2	|	3.23	|
-|	23/02/20	|	155	|	3	|	1.94	|
-|	24/02/20	|	229	|	7	|	3.06	|
-|	25/02/20	|	322	|	10	|	3.11	|
-|	26/02/20	|	453	|	12	|	2.65	|
-|	27/02/20	|	655	|	17	|	2.6	|
-|	28/02/20	|	888	|	21	|	2.36	|
-|	29/02/20	|	1129	|	29	|	2.57	|
-|	01/03/20	|	1694	|	34	|	2.01	|
-|	02/03/20	|	2036	|	52	|	2.55	|
-|	03/03/20	|	2502	|	79	|	3.16	|
-|	04/03/20	|	3089	|	107	|	3.46	|
-|	05/03/20	|	3858	|	148	|	3.84	|
-|	06/03/20	|	4636	|	197	|	4.25	|
-|	07/03/20	|	5883	|	233	|	3.96	|
-|	08/03/20	|	7375	|	366	|	4.96	|
-|	09/03/20	|	9172	|	463	|	5.05	|
-|	10/03/20	|	10149	|	631	|	6.22	|
-|	11/03/20	|	12462	|	827	|	6.64	|
+This table demostrates how rapidly corona virus has spread in Italy. Italy health care system became saturated around 8th March 2020 ([source](https://www.reddit.com/r/medicine/comments/ff8hns/testimony_of_a_surgeon_working_in_bergamo_in_the/)) after what CFR (case fatality rate i.e. total confirmed/total deaths) started to raise.
+Date	|	Italy Confirmed	|	Italy Deaths	|	Italy CFR %	|	Prediction Confirmed	|	Prediction Deaths	|
+----------------	|	--------------------	|	----------------	|	.---------------	|	.---------------	|	.---------------	|
+20/02/20	|	3	|		|		|	3	|		|
+21/02/20	|	20	|	1	|	5	|	20	|	1	|
+22/02/20	|	62	|	2	|	3.23	|	62	|	2	|
+23/02/20	|	155	|	3	|	1.94	|	155	|	3	|
+24/02/20	|	229	|	7	|	3.06	|	229	|	7	|
+25/02/20	|	322	|	10	|	3.11	|	322	|	10	|
+26/02/20	|	453	|	12	|	2.65	|	453	|	12	|
+27/02/20	|	655	|	17	|	2.6	|	655	|	17	|
+28/02/20	|	888	|	21	|	2.36	|	888	|	21	|
+29/02/20	|	1129	|	29	|	2.57	|	1129	|	29	|
+01/03/20	|	1694	|	34	|	2.01	|	1694	|	34	|
+02/03/20	|	2036	|	52	|	2.55	|	2036	|	52	|
+03/03/20	|	2502	|	79	|	3.16	|	2502	|	79	|
+04/03/20	|	3089	|	107	|	3.46	|		|		|
+05/03/20	|	3858	|	148	|	3.84	|		|		|
+06/03/20	|	4636	|	197	|	4.25	|		|		|
+07/03/20	|	5883	|	233	|	3.96	|		|		|
+08/03/20	|	7375	|	366	|	4.96	|		|		|
+09/03/20	|	9172	|	463	|	5.05	|		|		|
+10/03/20	|	10149	|	631	|	6.22	|		|		|
+11/03/20	|	12462	|	827	|	6.64	|		|		|
+
+
+The following two graphs illustrate the curve such fast growth has and provide in addition two polynomian estimates based on time series. The predictions for confirmed cases are based on the cases up to 3rd March. It demonstrates that the actual growth of the spread was actually faster than the prediction.
 
 ![Italy confirmed cases](graphs/Italy Confirmed.png)
 
 ![Italy deaths](graphs/Italy Mortality.png)
+
+This table displays virus development in Spain up to 12th March. CFR is not low but is comparable to the CFR in Italy during comparable time period.
 
 |	Date	|	Spain Confirmed	|	Spain Deaths	|	Spain CFR %	|
 |	-----------------	|	---------------------	|	-----------------	|	-----------------	|
@@ -116,9 +122,16 @@ This means that Spanish elderly are possibly as much as exposed as the elderly i
 |	11/03/20	|	2277	|	54	|	2.4	|
 |	12/03/20	|	3146	|	86	|	2.7	|
 
+
+The following two graphs are the main basis for this warning. It can be predicted that Spain reaches 10000 confirmed cases around 18th March and number of total deaths from COVID-19 can reach 450 for this date but can be higher based on the experience in Italy.
+
 ![Spain confirmed cases](graphs/Spain Confirmed.png)
 
 ![Spain deaths](graphs/Spain Mortality.png)
+
+### Italy and Spain compared
+
+This table combines the above data and combines it into a single table aligned by the current virus development.
 
 |	Day	|	Date in Spain	|	Spain Confirmed	|	Spain Deaths	|	Spain CFR %	|	Date in Italy	|	Italy Confirmed	|	Italy Deaths	|	Italy CFR %	|
 |	-------	|	-------------	|	----------------	|	----------------	|	-------------	|	------------	|	-------------	|	--------------	|	---------	|
@@ -149,6 +162,7 @@ This means that Spanish elderly are possibly as much as exposed as the elderly i
 |	25	|		|		|		|		|	10/03/20	|	10149	|	631	|	6.2	|
 |		|		|		|		|		|	11/03/20	|	12462	|	827	|	6.6	|
 
+It can be seen in the following two graphs how likely it is that virus development will follow similar path as in Italy.
 
 ![Italy and Spain confirmed cases compared](graphs/Italy Spain Confirmed.png)
 
