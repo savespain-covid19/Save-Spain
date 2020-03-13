@@ -1,4 +1,4 @@
-## Why is the such a big difference in Italy and Germany COVID-19 case fatality rate?
+## Why is there such a big difference in Italy and Germany COVID-19 case fatality rate?
 
 There exists order of magnitude difference between the COVID-19 related case fatality rate (CFR) in Italy and Germany (during comparable periods 2.5% (now 6%) in Italy and 0.2% in Germany).
 
@@ -16,7 +16,7 @@ It is unlikely that this can explain an order of magnitude difference, especiall
 
 ### Demographic differences
 
-Itally has been blaming its demographic, but in a country with fewer cases, like Germany, the demographic is almost the same.
+Itally has been blaming its demographic, but in a country with fewer deaths, like Germany, the demographic is almost the same.
 
 ![Germany population](graphs/Germany Population.png)
 [Source](https://en.wikipedia.org/wiki/Demographics_of_Germany)
