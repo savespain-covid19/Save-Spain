@@ -12,7 +12,7 @@ Italy only has half the number of intensive care beds (ICU) than Germany.
 
 [Source](https://link.springer.com/article/10.1007/s00134-012-2627-8#Tab2)
 
-It is unlikely that this can explain an order of magnitude difference, especially in the beginning of ethe pidemic when health care system is not yet saturated.
+It is unlikely that this can explain an order of magnitude difference, especially in the beginning of the epidemic when health care system is not yet saturated.
 
 ### Demographic differences
 
