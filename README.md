@@ -2,7 +2,7 @@
 
 I am strongly convinced that next COVID-19 humanitarian disaster will happen in Spain. There is not much time left to act. Based on the current projections it will happen around Wednesday on 18th March 2020.
 
-Please read why I believe this to be true and what immediate actions can be possibly taken to mitigate the likelihood of it happening and you personally can help and contribute.
+Please read why I believe this to be true and what immediate actions can be possibly taken to mitigate the likelihood of it happening and how you can personally help and contribute.
 
 ### Basis
 
