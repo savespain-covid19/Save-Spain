@@ -65,6 +65,33 @@ More and more young Spanish people will be living with their parents until middl
 
 This means that Spanish elderly are possibly as much as exposed as the elderly in Italy (I have not been able to locate demographic breakdown of COVID-19 cases for Spain). This combined with even smaller amount of intensive care beds (see the table above) can result in similar catastrophe as we see unrolling in Italy.
 
+### Data and predictions
+
+|	Date in Italy	|	Italy Confirmed	|	Italy Deaths	|
+|	----------------	|	--------------------	|	----------------	|
+|	20/02/20	|	3	|		|
+|	21/02/20	|	20	|	1	|
+|	22/02/20	|	62	|	2	|
+|	23/02/20	|	155	|	3	|
+|	24/02/20	|	229	|	7	|
+|	25/02/20	|	322	|	10	|
+|	26/02/20	|	453	|	12	|
+|	27/02/20	|	655	|	17	|
+|	28/02/20	|	888	|	21	|
+|	29/02/20	|	1129	|	29	|
+|	01/03/20	|	1694	|	34	|
+|	02/03/20	|	2036	|	52	|
+|	03/03/20	|	2502	|	79	|
+|	04/03/20	|	3089	|	107	|
+|	05/03/20	|	3858	|	148	|
+|	06/03/20	|	4636	|	197	|
+|	07/03/20	|	5883	|	233	|
+|	08/03/20	|	7375	|	366	|
+|	09/03/20	|	9172	|	463	|
+|	10/03/20	|	10149	|	631	|
+|	11/03/20	|	12462	|	827	|
+
+
 ### Immediate action is needed!
 
 Spain has currently 2277 confirmed cases and 54 deaths (CFR 2.4%). It is comparable to the situation in Italy on 2nd March - 2036 confirmed cases and 52 deaths (CFR 2.6%).
