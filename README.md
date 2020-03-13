@@ -67,29 +67,33 @@ This means that Spanish elderly are possibly as much as exposed as the elderly i
 
 ### Data and predictions
 
-|	Date in Italy	|	Italy Confirmed	|	Italy Deaths	|
-|	----------------	|	--------------------	|	----------------	|
-|	20/02/20	|	3	|		|
-|	21/02/20	|	20	|	1	|
-|	22/02/20	|	62	|	2	|
-|	23/02/20	|	155	|	3	|
-|	24/02/20	|	229	|	7	|
-|	25/02/20	|	322	|	10	|
-|	26/02/20	|	453	|	12	|
-|	27/02/20	|	655	|	17	|
-|	28/02/20	|	888	|	21	|
-|	29/02/20	|	1129	|	29	|
-|	01/03/20	|	1694	|	34	|
-|	02/03/20	|	2036	|	52	|
-|	03/03/20	|	2502	|	79	|
-|	04/03/20	|	3089	|	107	|
-|	05/03/20	|	3858	|	148	|
-|	06/03/20	|	4636	|	197	|
-|	07/03/20	|	5883	|	233	|
-|	08/03/20	|	7375	|	366	|
-|	09/03/20	|	9172	|	463	|
-|	10/03/20	|	10149	|	631	|
-|	11/03/20	|	12462	|	827	|
+|	Date	|	Italy Confirmed	|	Italy Deaths	|	Italy CFR %	|
+|	----------------	|	--------------------	|	----------------	|	.---------------	|
+|	20/02/20	|	3	|		|		|
+|	21/02/20	|	20	|	1	|	5	|
+|	22/02/20	|	62	|	2	|	3.23	|
+|	23/02/20	|	155	|	3	|	1.94	|
+|	24/02/20	|	229	|	7	|	3.06	|
+|	25/02/20	|	322	|	10	|	3.11	|
+|	26/02/20	|	453	|	12	|	2.65	|
+|	27/02/20	|	655	|	17	|	2.6	|
+|	28/02/20	|	888	|	21	|	2.36	|
+|	29/02/20	|	1129	|	29	|	2.57	|
+|	01/03/20	|	1694	|	34	|	2.01	|
+|	02/03/20	|	2036	|	52	|	2.55	|
+|	03/03/20	|	2502	|	79	|	3.16	|
+|	04/03/20	|	3089	|	107	|	3.46	|
+|	05/03/20	|	3858	|	148	|	3.84	|
+|	06/03/20	|	4636	|	197	|	4.25	|
+|	07/03/20	|	5883	|	233	|	3.96	|
+|	08/03/20	|	7375	|	366	|	4.96	|
+|	09/03/20	|	9172	|	463	|	5.05	|
+|	10/03/20	|	10149	|	631	|	6.22	|
+|	11/03/20	|	12462	|	827	|	6.64	|
+
+![Italy confirmed cases](graphs/Italy Confirmed.png)
+
+![Italy deaths](graphs/Italy Mortality.png)
 
 |	Date	|	Spain Confirmed	|	Spain Deaths	|	Spain CFR %	|
 |	-----------------	|	---------------------	|	-----------------	|	-----------------	|
@@ -111,6 +115,10 @@ This means that Spanish elderly are possibly as much as exposed as the elderly i
 |	10/03/20	|	1695	|	32	|	1.9	|
 |	11/03/20	|	2277	|	54	|	2.4	|
 |	12/03/20	|	3146	|	86	|	2.7	|
+
+![Spain confirmed cases](graphs/Spain Confirmed.png)
+
+![Spain deaths](graphs/Spain Mortality.png)
 
 |	Day	|	Date in Spain	|	Spain Confirmed	|	Spain Deaths	|	Spain CFR %	|	Date in Italy	|	Italy Confirmed	|	Italy Deaths	|	Italy CFR %	|
 |	-------	|	-------------	|	----------------	|	----------------	|	-------------	|	------------	|	-------------	|	--------------	|	---------	|
@@ -141,6 +149,10 @@ This means that Spanish elderly are possibly as much as exposed as the elderly i
 |	25	|		|		|		|		|	10/03/20	|	10149	|	631	|	6.2	|
 |		|		|		|		|		|	11/03/20	|	12462	|	827	|	6.6	|
 
+
+![Italy and Spain confirmed cases compared](graphs/Italy Spain Confirmed.png)
+
+![Italy and Spain deaths compared](graphs/Italy Spain Mortality.png)
 
 ### Immediate action is needed!
 
