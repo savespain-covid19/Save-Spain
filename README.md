@@ -68,7 +68,7 @@ This means that Spanish elderly are possibly as much as exposed as the elderly i
 ### Data and predictions
 
 |	Date	|	Italy Confirmed	|	Italy Deaths	|	Italy CFR %	|
-|	----------------	|	--------------------	|	----------------	|	.---------------	|
+|	----------------	|	--------------------	|	----------------	|	---------------	|
 |	20/02/20	|	3	|		|		|
 |	21/02/20	|	20	|	1	|	5	|
 |	22/02/20	|	62	|	2	|	3.23	|
