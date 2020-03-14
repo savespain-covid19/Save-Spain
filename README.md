@@ -68,30 +68,27 @@ This means that Spanish elderly are possibly as much as exposed as the elderly i
 ### Data and predictions
 
 This table demostrates how rapidly corona virus has spread in Italy. Italy health care system became saturated around 8th March 2020 ([source](https://www.reddit.com/r/medicine/comments/ff8hns/testimony_of_a_surgeon_working_in_bergamo_in_the/)) after what CFR (case fatality rate i.e. total confirmed/total deaths) started to raise.
-Date	|	Italy Confirmed	|	Italy Deaths	|	Italy CFR %	|	Prediction Confirmed	|	Prediction Deaths	|
-----	|	----	|	----	|	----	|	----	|	----	|
-20/02/20	|	3	|		|		|	3	|		|
-21/02/20	|	20	|	1	|	5	|	20	|	1	|
-22/02/20	|	62	|	2	|	3.23	|	62	|	2	|
-23/02/20	|	155	|	3	|	1.94	|	155	|	3	|
-24/02/20	|	229	|	7	|	3.06	|	229	|	7	|
-25/02/20	|	322	|	10	|	3.11	|	322	|	10	|
-26/02/20	|	453	|	12	|	2.65	|	453	|	12	|
-27/02/20	|	655	|	17	|	2.6	|	655	|	17	|
-28/02/20	|	888	|	21	|	2.36	|	888	|	21	|
-29/02/20	|	1129	|	29	|	2.57	|	1129	|	29	|
-01/03/20	|	1694	|	34	|	2.01	|	1694	|	34	|
-02/03/20	|	2036	|	52	|	2.55	|	2036	|	52	|
-03/03/20	|	2502	|	79	|	3.16	|	2502	|	79	|
-04/03/20	|	3089	|	107	|	3.46	|		|		|
-05/03/20	|	3858	|	148	|	3.84	|		|		|
-06/03/20	|	4636	|	197	|	4.25	|		|		|
-07/03/20	|	5883	|	233	|	3.96	|		|		|
-08/03/20	|	7375	|	366	|	4.96	|		|		|
-09/03/20	|	9172	|	463	|	5.05	|		|		|
-10/03/20	|	10149	|	631	|	6.22	|		|		|
-11/03/20	|	12462	|	827	|	6.64	|		|		|
 
+|	Date	|	Spain Confirmed	|	Spain Deaths	|	Spain CFR %	|
+|	-----------------	|	---------------------	|	-----------------	|	-----------------	|
+|	24/02/20	|	2	|	0	|	0	|
+|	25/02/20	|	6	|	0	|	0	|
+|	26/02/20	|	13	|	0	|	0	|
+|	27/02/20	|	15	|	0	|	0	|
+|	28/02/20	|	32	|	0	|	0	|
+|	29/02/20	|	45	|	0	|	0	|
+|	01/03/20	|	84	|	0	|	0	|
+|	02/03/20	|	120	|	0	|	0	|
+|	03/03/20	|	165	|	1	|	0.6	|
+|	04/03/20	|	222	|	2	|	0.9	|
+|	05/03/20	|	259	|	3	|	1.2	|
+|	06/03/20	|	400	|	5	|	1.3	|
+|	07/03/20	|	500	|	10	|	2	|
+|	08/03/20	|	673	|	17	|	2.5	|
+|	09/03/20	|	1073	|	28	|	2.6	|
+|	10/03/20	|	1695	|	32	|	1.9	|
+|	11/03/20	|	2277	|	54	|	2.4	|
+|	12/03/20	|	3146	|	86	|	2.7	|
 
 The following two graphs illustrate the curve such fast growth has and provide in addition two polynomian estimates based on time series. The predictions for confirmed cases are based on the cases up to 3rd March. It demonstrates that the actual growth of the spread was actually faster than the prediction.
 
