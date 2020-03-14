@@ -69,7 +69,7 @@ This means that Spanish elderly are possibly as much as exposed as the elderly i
 
 This table demostrates how rapidly corona virus has spread in Italy. Italy health care system became saturated around 8th March 2020 ([source](https://www.reddit.com/r/medicine/comments/ff8hns/testimony_of_a_surgeon_working_in_bergamo_in_the/)) after what CFR (case fatality rate i.e. total confirmed/total deaths) started to raise.
 Date	|	Italy Confirmed	|	Italy Deaths	|	Italy CFR %	|	Prediction Confirmed	|	Prediction Deaths	|
-----------------	|	--------------------	|	----------------	|	---------------	|	---------------	|	---------------	|
+----	|	----	|	----	|	----	|	----	|	----	|
 20/02/20	|	3	|		|		|	3	|		|
 21/02/20	|	20	|	1	|	5	|	20	|	1	|
 22/02/20	|	62	|	2	|	3.23	|	62	|	2	|
