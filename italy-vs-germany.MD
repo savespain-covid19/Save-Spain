@@ -55,17 +55,3 @@ It is important when assuming this hypothesis to be true to drastically limit pe
 All families should isolate their elderly as much as possible limiting physical (but not emotional because social interaction is very important to maintain the quality of life) contact with their elderly family members to minimum. 
 
 Reasonable sanitary cautions should also be followed; regular hand washing, disinfecting items and food handed over to elderly, etc.
-
-### How can you help?
-
-Every kind of help is needed!
-
-The campaign needs different contributions. 
-
-It is important to back displayed generalizations with the actual research as much as possible.
-
-This has to be translated into Spanish.
-
-The message must be shared as much as possible and to the highest decision makers as possible. This is crucial.
-
-Please contact me through GitHub or by savespain.covid19@gmail.com to offer your support.
