@@ -4,6 +4,12 @@ It is possible that next COVID-19 humanitarian disaster will happen in Spain. Th
 
 Please read why this can be true and what immediate actions can be possibly taken to mitigate the likelihood of it happening and how you can personally help and contribute.
 
+### Spanish reponse to COVID-19
+
+I can conclude that I can close this mission. Spanish prime minister [appeal](https://twitter.com/sanchezcastejon/status/1238953290265755650) shows that Spain have received the right message.
+
+This mission was not successful because it did not reach its objective to change Spanish reaction to the COVID-19 outbreak. Fortunately this was not needed.
+
 ### Basis
 
 There exists order of magnitude difference between the COVID-19 related case fatality rate (CFR) in Italy and Germany (during comparable periods 2.5% (now 6%) in Italy and 0.2% in Germany).
