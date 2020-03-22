@@ -6,7 +6,7 @@ Please read why this can be true and what immediate actions can be possibly take
 
 ### Spanish reponse to COVID-19
 
-I can conclude that I can close this mission. Spanish prime minister [appeal](https://twitter.com/sanchezcastejon/status/1238953290265755650) shows that Spain have received the right message.
+I can conclude that I can close this mission. Spanish prime minister [appeal](https://twitter.com/sanchezcastejon/status/1238953290265755650) shows that Spain has received the right message.
 
 This mission was not successful because it did not reach its objective to change Spanish reaction to the COVID-19 outbreak. Fortunately this was not needed.
 
