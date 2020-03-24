@@ -10,6 +10,10 @@ I can conclude that I can close this mission. Spanish prime minister [appeal](ht
 
 This mission was not successful because it did not reach its objective to change Spanish reaction to the COVID-19 outbreak. Fortunately this was not needed.
 
+### Reaction in media
+
+Estonian news paper Postimees published an [interview](https://news.postimees.ee/6931699/an-estonian-tried-to-warn-spain) with me on 24th March 2020.
+
 ### Basis
 
 There exists order of magnitude difference between the COVID-19 related case fatality rate (CFR) in Italy and Germany (during comparable periods 2.5% (now 6%) in Italy and 0.2% in Germany).
