@@ -2,6 +2,8 @@
 
 Eesti valitsus tegutses väga otsustavalt kehtestades Eestis 12. märtsil välja eriolukorra. Olulise sammuna hakati ka jõulisemalt testima ning Eesti asus väga heal positsioonil saamaks kiirelt kontrolli epideemia üle. Kahjuks ei ole läinud nii, nagu ma lootsin. Kahjuks on asjade seis väga halb just kõige olulisema epideemia kontrolli vahendiga - testimisega.
 
+![](graphs/covid-19-estonia-2.png)
+
 ### Heade algandmete jõud
 
 Ma usun, et igaüks teist peaks mind kergelt hulluks, kui ma sellel nädalal täie tõsidusega väidaksin, et tean järgmise nädala loterii võidunumbreid. Itaalia jaoks olid need 27. veebruaril 3, 20, 62, 155, 229, 322, 453 ja 655. Need kaheksa numbrit määrasid Itaalia saatuse. Itaalia oli võitnud COVID-19 jackpoti. 
