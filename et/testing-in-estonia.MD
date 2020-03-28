@@ -1,5 +1,6 @@
 ## Testida, testida, testida! Miks seda Eestis ei tehta?
 
+Eesti valitsus tegutses väga otsustavalt kehtestades Eestis 12. märtsil välja eriolukorra. Olulise sammuna hakati ka jõulisemalt testima ning Eesti asus väga heal positsioonil saamaks kiirelt kontrolli epideemia üle. Kahjuks ei ole läinud nii, nagu ma lootsin. Kahjuks on asjade seis väga halb just kõige olulisema epideemia kontrolli vahendiga - testimisega.
 
 ### Heade algandmete jõud
 
