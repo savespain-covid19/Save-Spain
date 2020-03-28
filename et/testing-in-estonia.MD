@@ -43,7 +43,7 @@ Nende andmete olemasolu oli ideaalne stardipositsioon saamaks aru eriolukorras k
 
 Mis aga tegelikkuses juhtus oli see, et  16. märtsil muudeti testimise protokolli ja asuti testima väikest riskigruppi laiema grupi asemel.
 
-Seda kõike vaatamata sellele, et nii ülikoolid kui ka erasektor olid teinud olulisi pingutusi testimise võime tõstmiseks. SYNLAB oli juba kriisi alguses võimeline tegema 1000 testi päevas. Lisaks teatasid järgneva nädala jooksul ülikoolide laborid, et nad on võimelised tegema 1500 testi päevas. See on ainult esialgne võimekus, mida on võimalik laiendada. Vajalike reagentide tootmine on samuti Eestis olemas Tartu firmas Solis BioDyne.
+Seda kõike vaatamata sellele, et nii ülikoolid kui ka erasektor olid teinud olulisi pingutusi testimise võime tõstmiseks. [SYNLAB](http://synlab.ee/) oli juba kriisi alguses võimeline tegema 1000 testi päevas. Lisaks teatasid järgneva nädala jooksul ülikoolide laborid, et nad on võimelised tegema 1500 testi päevas. See on ainult esialgne võimekus, mida on võimalik laiendada. Vajalike reagentide tootmine on samuti Eestis olemas Tartu firmas [Solis BioDyne](https://www.solisbiodyne.com/).
 
 Loomulikult kajastus testimise protokolli muutmine koheselt ka andmetes.
 
