@@ -196,17 +196,3 @@ Reasonable sanitary cautions should also be followed; regular hand washing, disi
 ### Why should you believe this or follow these suggestions?
 
 You do not. But there does not appear to exists any better theory that is plausible. There is not enough time to do any deep research and try many other less severe options during the critical period. The time is running out quickly and there is possibility to avoid huge carnage by decisive action.
-
-### How can you help?
-
-Every kind of help is needed!
-
-The campaign needs different contributions. 
-
-It is important to back displayed generalizations with the actual research as much as possible.
-
-This has to be translated into Spanish.
-
-The message must be shared as much as possible and to the highest decision makers as possible. This is crucial.
-
-Please contact me through GitHub or by savespain.covid19@gmail.com to offer your support.
