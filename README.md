@@ -196,3 +196,5 @@ Reasonable sanitary cautions should also be followed; regular hand washing, disi
 ### Why should you believe this or follow these suggestions?
 
 You do not. But there does not appear to exists any better theory that is plausible. There is not enough time to do any deep research and try many other less severe options during the critical period. The time is running out quickly and there is possibility to avoid huge carnage by decisive action.
+
+
